@@ -2,10 +2,12 @@
 Changelog for package sros2_cmake
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.16.6 (2026-05-12)
+0.17.1 (2026-11-03)
 -------------------
+* Use the SPDX identifier Apache-2.0 in license declarations (`#397 <https://github.com/ros2/sros2//issues/397>`_)
+* Contributors: Michael Carroll
 
-0.16.5 (2026-04-30)
+0.17.0 (2026-05-05)
 -------------------
 
 0.16.4 (2026-02-16)
